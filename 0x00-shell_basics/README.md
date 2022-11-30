@@ -1,5 +1,5 @@
 ## This folder is full of small bash script files
-- 0-current_working_directory  -------  list absolute pasth name
+- 0-current_working_directory  -------  print working directory
 - 1-listit  --------  list contents of current directory
 - 2-bring_me_home  --------  change directory to home
 - 3-listfiles  --------  list in long format
