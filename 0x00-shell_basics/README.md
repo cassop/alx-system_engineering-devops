@@ -1,0 +1,16 @@
+## This folder is full of small bash script files
+- 0-current_working_directory  -------  list absolute pasth name
+- 1-listit  --------  list contents of current directory
+- 2-bring_me_home  --------  change directory to home
+- 3-listfiles  --------  list in long format
+- 4-listmorefiles  --------  list hidden
+- 5-listfilesdigitonly  --------  list all files in long format and use user id
+- 6-firstdirectory  --------  create a directory my_first_directory
+- 7-movethatfile  --------  move file betty to /tmp/my_first_directory
+- 8-firstdelete  --------  delet file betty
+- 9-firstdirdeletion  --------  delete folder my_first_directory
+- 10-back  --------  change directory to previous
+- 11-lists  --------  list current and /boot direcotry
+- 12-file_type  --------  filetype of iamafile
+- 13-symbolic_link  --------  symbolic /bin/ls 
+- 14-copy_html  --------  copy html file to parent directory
