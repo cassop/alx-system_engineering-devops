@@ -1,2 +1,2 @@
 #!/bin/bash
-grep Latin iacta
+tr '\n' ':' < iacta | cut --delimiter=':' -f3
