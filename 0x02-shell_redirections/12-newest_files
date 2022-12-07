@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | tr -s ' ' '\n'
+ls -Alt | tr -s ' ' ' ' | cut --delimiter=' ' -f9-
